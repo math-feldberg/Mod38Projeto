@@ -1,3 +1,4 @@
 # Mod38Projeto
 
-[streamlit-app_pycaret-2023-07-02-20-07-36.webm](https://github.com/math-feldberg/Mod38Projeto/assets/119978576/1dccff1f-ac1a-48de-8c80-4dac8f547a7c)
+
+[streamlit-app_pycaret-2023-07-02-20-07-13.webm](https://github.com/math-feldberg/Mod38Projeto/assets/119978576/dd979cfa-f4ed-4d69-928b-ededc29c7c56)
